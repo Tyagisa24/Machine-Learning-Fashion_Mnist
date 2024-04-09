@@ -1,2 +1,4 @@
-# Machine-Learning
-A sum of all my machine learning knowledge and projects
+# Clothes Classification
+Classifiying clothing by using different methods:
+1. CNN
+2. 
